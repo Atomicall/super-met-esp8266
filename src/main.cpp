@@ -3,8 +3,8 @@
 #include <ESP8266HTTPClient.h>
 
 // Настройки Wi-Fi сети
-const char* ssid = "sloth";
-const char* password = "bytnthrowdbab0";
+const char* ssid = "1`11";
+const char* password = "111";
 
 // Настройки удаленного сервера
 const char* serverHost = "http://tcpbin.com";
